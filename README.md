@@ -6,7 +6,7 @@ The project uses **Nodemon** for automatic server restarts during development an
 
 ---
 
-## 🚀 Features
+## Features
 
 - Create and manage shopping list items  
 - View all existing items in the list  
@@ -16,7 +16,7 @@ The project uses **Nodemon** for automatic server restarts during development an
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 - **Node.js** – Server-side JavaScript runtime  
 - **TypeScript** – Strongly typed programming language  
@@ -25,7 +25,7 @@ The project uses **Nodemon** for automatic server restarts during development an
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. Clone the repository using:
    ```bash
@@ -44,7 +44,7 @@ The project uses **Nodemon** for automatic server restarts during development an
 
 ---
 
-## 🏃‍♀️ Run the Application
+##  Run the Application
 
 Start the development server with:
 ```bash
@@ -55,7 +55,7 @@ This command runs the server using **Nodemon** and **ts-node**, automatically re
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 The project may include the following files and directories:
 
@@ -68,7 +68,7 @@ The project may include the following files and directories:
 
 ---
 
-## 🧠 Example API Endpoints
+##  Example API Endpoints
 
 You can interact with the API through different HTTP requests:
 
@@ -79,7 +79,7 @@ You can interact with the API through different HTTP requests:
 
 ---
 
-## 🧪 Development Notes
+##  Development Notes
 
 - Any time you save changes in your TypeScript files, the app automatically restarts.  
 - If needed, you can manually compile TypeScript to JavaScript with:
@@ -90,7 +90,7 @@ You can interact with the API through different HTTP requests:
 ---
 
 
-## 📜 License
+##  License
 
 This project is licensed under the **ISC License**.
 
