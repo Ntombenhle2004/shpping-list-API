@@ -12,6 +12,7 @@ export const getItemById = (id: number): Item | undefined => {
   return item;
 };
 
+
 export const addItem = (
   name: string,
   quantity: number,
@@ -27,7 +28,6 @@ export const addItem = (
   return newItem;
 };
 
-//from chat
 
 export const updateItem = (
   id: number,
