@@ -1,3 +1,5 @@
+<img src="https://socialify.git.ci/Ntombenhle2004/shpping-list-API/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="shpping-list-API" width="640" height="320" />
+
 # 🛒 Shopping List API
 
 This is a **Node.js + TypeScript** backend API designed to manage shopping list items.  
